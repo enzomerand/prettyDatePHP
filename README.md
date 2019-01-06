@@ -1,0 +1,2 @@
+# prettyDatePHP
+human date
